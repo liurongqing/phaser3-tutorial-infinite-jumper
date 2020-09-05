@@ -8,8 +8,8 @@ const config: Phaser.Types.Core.GameConfig = {
     mode: Phaser.Scale.NONE,
     autoCenter: Phaser.Scale.CENTER_BOTH,
     parent: 'root',
-    width: 800,
-    height: 600
+    width: 480,
+    height: 640
   },
   physics: {
     default: 'arcade',

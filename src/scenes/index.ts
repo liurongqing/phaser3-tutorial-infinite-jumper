@@ -1,7 +1,9 @@
 import Game from './Game'
-import Preload from './Preloader'
+import GameOver from './GameOver'
+import Preloader from './Preloader'
 
 export default [
-  Preload,
-  Game
+  Preloader,
+  Game,
+  GameOver
 ]

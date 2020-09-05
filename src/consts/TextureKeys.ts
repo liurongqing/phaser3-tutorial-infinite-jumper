@@ -1,0 +1,6 @@
+export const BACKGROUND = 'background'
+export const PLATFORM = 'platform'
+export const BUNNY_STAND = 'bunny-stand'
+export const BUNNY_JUMP = 'bunny-jump'
+export const CARROT = 'carrot'
+export const JUMP = 'jump'
